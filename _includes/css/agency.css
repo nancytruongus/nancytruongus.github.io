@@ -724,6 +724,11 @@ footer {
     text-align: center;
 }
 
+blockquote footer {
+    text-align: inherit;
+    padding: inherit;
+}
+
 footer span.copyright {
     text-transform: uppercase;
     text-transform: none;
