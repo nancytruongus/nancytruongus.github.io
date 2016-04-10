@@ -297,6 +297,10 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .btn {
+    margin-top: 20px;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -342,7 +346,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 70px 0;
     }
 }
 
@@ -662,6 +666,14 @@ section#contact {
 }
 
 section#contact .section-heading {
+    color: #fff;
+}
+
+section#contact h3 {
+    margin-bottom: 20px;
+}
+
+section#contact h4 {
     color: #fff;
 }
 
