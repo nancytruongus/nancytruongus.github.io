@@ -17,3 +17,6 @@ people:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+- portfolio
